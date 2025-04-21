@@ -1,8 +1,12 @@
 # Automated ESG Data Extraction and Performance Analysis
 ## 🌐 Project Links
 
-- 🔗 [Interactive ESG Web App](https://supernbesg-tdu2lw1.gamma.site/)
-- 📰 [Original ESG Dashboard](https://supernbesg.iocom.me/)
+- 🖥️ [Interactive Demo Site](https://supernbesg-tdu2lw1.gamma.site/)  
+  A visual showcase of the ESG scoring project using a clean and modern layout.
+
+- 📊 [ESG Dashboard Preview](https://supernbesg.iocom.me/)  
+  Displays ESG scores, extracted metrics, and analysis results from data.
+
 
 
 ## Data Collection and Preprocessing
